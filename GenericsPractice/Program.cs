@@ -40,6 +40,18 @@ namespace GenericsPractice
             Console.WriteLine(FindMaxUsingGenerics.FindMax(4.5, 6.7, 1.2));
             Console.WriteLine(FindMaxUsingGenerics.FindMax('m', 's', 'v'));
 
+            FindMaxUsingGenericsClass<String> findMaxString = new FindMaxUsingGenericsClass<String>("Zebra", "Orange", "Apple");
+            String str =findMaxString.FindMax();
+            Console.WriteLine(str);
+
+            FindMaxUsingGenericsClass<int> findMaxInt = new FindMaxUsingGenericsClass<int>(3, 10, 7);
+            int n = findMaxInt.FindMax();
+            Console.WriteLine(n);
+
+            FindMaxUsingGenericsClass<double> findMaxDouble = new FindMaxUsingGenericsClass<double>(4.5, 6.7, 1.2);
+            double d = findMaxDouble.FindMax();
+            Console.WriteLine(d);
+
 
         }
     }
