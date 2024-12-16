@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.exe
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.deps.json
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.runtimeconfig.json
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.runtimeconfig.dev.json
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.dll
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\bin\Debug\netcoreapp3.1\GenericsPractice.pdb
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.AssemblyInfo.cs
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.sourcelink.json
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.dll
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.pdb
+C:\Users\HP\source\repos\GenericsPractice\GenericsPractice\obj\Debug\netcoreapp3.1\GenericsPractice.genruntimeconfig.cache
